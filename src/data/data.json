@@ -1,184 +1,148 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Sakari Jawo",
+    "paragraph": "Cyber Security Engineer and Cloud Professional specializing in Microsoft security, automation, and AI-driven DevOps. Passionate about building secure, scalable, and intelligent solutions that empower modern digital environments."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "I’m a Cyber Security Engineer with over four years of hands-on experience in SOC, SIEM, and cloud security, primarily within the Microsoft ecosystem. I focus on automation, data integration, and cost-efficient cloud security solutions using tools like Microsoft Sentinel, Azure Functions, and Terraform. I’m passionate about developing secure systems through CI/CD pipelines, Infrastructure as Code, and AI integration. With a background in DevOps engineering and a strong technical mindset, I enjoy bridging the gap between security operations and modern software development.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "4+ years of Cyber Security and Cloud Engineering experience",
+      "Expert in Microsoft Sentinel, Entra ID, and Azure Security",
+      "Strong DevOps background with CI/CD and Infrastructure as Code",
+      "Experienced in Security Automation, SOAR, and AI-powered solutions"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Proven ability to drive secure digital transformation",
+      "Collaborative and structured approach with strong problem-solving skills",
+      "Microsoft and HashiCorp Certified Professional",
+      "Dedicated to continuous learning and innovation in security and cloud"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Microsoft Sentinel Automation",
+      "largeImage": "img/portfolio/sentinel-large.jpg",
+      "smallImage": "img/portfolio/sentinel-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Azure Security Monitoring",
+      "largeImage": "img/portfolio/azure-large.jpg",
+      "smallImage": "img/portfolio/azure-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Infrastructure as Code with Terraform",
+      "largeImage": "img/portfolio/terraform-large.jpg",
+      "smallImage": "img/portfolio/terraform-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "SOAR Integration & Threat Intelligence",
+      "largeImage": "img/portfolio/soar-large.jpg",
+      "smallImage": "img/portfolio/soar-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Cloud Automation Projects",
+      "largeImage": "img/portfolio/cloud-large.jpg",
+      "smallImage": "img/portfolio/cloud-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "AI-Powered Security Tools",
+      "largeImage": "img/portfolio/ai-large.jpg",
+      "smallImage": "img/portfolio/ai-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "DevOps CI/CD Pipelines",
+      "largeImage": "img/portfolio/devops-large.jpg",
+      "smallImage": "img/portfolio/devops-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Data Collection & DCR Setup",
+      "largeImage": "img/portfolio/dcr-large.jpg",
+      "smallImage": "img/portfolio/dcr-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Security Engineering at Scale",
+      "largeImage": "img/portfolio/security-large.jpg",
+      "smallImage": "img/portfolio/security-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shield",
+      "name": "Cyber Security Engineering",
+      "text": "Building and automating secure cloud environments with Microsoft Sentinel, Defender XDR, and Entra ID. Focused on proactive defense and data-driven detection."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cloud",
+      "name": "Cloud Security & Automation",
+      "text": "Designing and implementing Azure cloud solutions with Infrastructure as Code and CI/CD pipelines for reliable, scalable, and secure deployments."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-code",
+      "name": "DevOps & Infrastructure as Code",
+      "text": "Experienced in Terraform, GitHub Actions, and Azure DevOps to enable continuous delivery and robust infrastructure management."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-robot",
+      "name": "AI & SOAR Development",
+      "text": "Creating automation and enrichment tools that combine AI with SOAR workflows to improve incident response and threat intelligence efficiency."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-lock",
+      "name": "Security Operations",
+      "text": "Supporting SOC operations through log onboarding, incident enrichment, and integration of threat intelligence for faster, smarter detections."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-graduation-cap",
+      "name": "Training & Knowledge Sharing",
+      "text": "Helping teams understand cloud security, DevOps best practices, and automation through workshops, documentation, and mentoring."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Sakari has a great ability to combine security knowledge with automation skills. His Sentinel automation work has saved us countless analyst hours.\"",
+      "name": "Colleague, H&M Group"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Professional, reliable, and always looking for innovative ways to improve security workflows. A true asset to any technical team.\"",
+      "name": "Team Lead, H&M Group"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/sakari.jpg",
+      "name": "Sakari Jawo",
+      "job": "Cyber Security Engineer | Cloud & DevOps Specialist"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Stockholm, Sweden",
+    "phone": "+46 (0)70-000 0000",
+    "email": "sakarijawo@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sakarijawo",
+    "github": "https://github.com/therealcybersecpro"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cloud",
+      "title": "Cloud Security",
+      "text": "Expertise in Azure security architecture, monitoring, and automation using Microsoft Sentinel, Entra ID, and Defender."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cogs",
+      "title": "Automation & Integration",
+      "text": "Building automated pipelines and SOAR integrations for improved detection and response capabilities."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-code",
+      "title": "Infrastructure as Code",
+      "text": "Designing reliable, repeatable infrastructure using Terraform, Bicep, and Azure DevOps."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-brain",
+      "title": "AI & Innovation",
+      "text": "Integrating AI agents and data-driven insights into security and DevOps workflows for smarter operations."
     }
   ]
 }
